@@ -1,0 +1,10 @@
+{
+  "name": "bun-bug-2732-reproduce",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "^0.5.0"
+  },
+  "dependencies": {
+    "web-tree-sitter": "^0.20.8"
+  }
+}
